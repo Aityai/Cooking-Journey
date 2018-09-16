@@ -62,6 +62,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Contact\Common.cs" />
+    <Compile Include="Assets\Scripts\Contact\DefineLayer.cs" />
     <Compile Include="Assets\Scripts\Contact\MessageContain.cs" />
     <Compile Include="Assets\Scripts\Contact\MessageMaster.cs" />
     <Compile Include="Assets\Scripts\Contact\MessageObject.cs" />
